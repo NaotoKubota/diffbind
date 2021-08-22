@@ -1,4 +1,4 @@
-# Docker container for DiffBind (v3)
+# Docker container for DiffBind (v3.2)
 
 Dockerfile for [DiffBind](http://bioconductor.org/packages/release/bioc/vignettes/DiffBind/inst/doc/DiffBind.pdf):Differential Binding Analysis of ChIP-Seq Peak Data
 
@@ -10,7 +10,7 @@ It's on [dockerhub](https://hub.docker.com/r/naotokubota/diffbind) and [github](
 ## how to build
 
 ```sh
-docker pull naotokubota/diffbind:3.13
+docker pull naotokubota/diffbind:3.2
 ```
 
 or
@@ -18,7 +18,7 @@ or
 ```sh
 git clone git@github.com:NaotoKubota/diffbind.git
 cd diffbind
-docker build --rm -t naotokubota/diffbind:3.13 .
+docker build --rm -t naotokubota/diffbind:3.2 .
 ```
 
 ## running
