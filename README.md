@@ -5,7 +5,7 @@ Dockerfile for [DiffBind](http://bioconductor.org/packages/release/bioc/vignette
 It's on [dockerhub](https://hub.docker.com/r/naotokubota/diffbind) and [github](https://github.com/NaotoKubota/diffbind).
 
 ## tags and links
-- `3.13` [(master/Dockerfile)](https://github.com/NaotoKubota/diffbind/blob/master/Dockerfile)
+- `3.2` [(master/Dockerfile)](https://github.com/NaotoKubota/diffbind/blob/master/Dockerfile)
 
 ## how to build
 
